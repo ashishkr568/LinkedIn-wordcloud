@@ -1,0 +1,45 @@
+Skill,Weightage
+Data Science,4
+Machine Learning,4
+Deep Learning,4
+Power BI,4
+ETL,4
+SQL,4
+Python,4
+R,4
+Artificial Intelligence,3
+NLP,3
+Preprocessing,3
+Visualization,3
+Modelling,3
+Predictive Analytics,3
+Discriptive Statistics,3
+Decision Trees,3
+SVM,3
+MARS,3
+Random Forest,3
+Clustering,3
+Logistic Regression,3
+CNN,3
+PCA,3
+KNN,3
+ANN,3
+PLS,3
+Linear Regression,3
+Forecasting,3
+Pandas,3
+SciKit-Learn,3
+Numpy,3
+ChatBot,2
+Matplotlib,2
+Seaborn,2
+Vader,2
+TKinter,2
+Keras,2
+NLTK,2
+Rasa,2
+Sentiment Analysis,2
+Text Analytics,2
+pyPDF2,1
+Dask,1
+tfidf,1
